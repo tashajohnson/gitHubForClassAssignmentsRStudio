@@ -1,0 +1,1 @@
+I am going to practice using command line prompts for my git cloning and push/pull commands. I feel like this would be useful in case the program isn't updating my repository as it should.
